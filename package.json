@@ -20,6 +20,6 @@
   "homepage": "https://github.com/mosahle7/dbjson#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-server": "^1.0.0-alpha.17"
+    "json-server": "0.16.3"
   }
 }
