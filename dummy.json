@@ -46,7 +46,7 @@
             "price":499,"discountPercentage":10.58,
             "stars":4.09,"stock":32,"brand":"Huawei","category":"smartphones",
             "thumbnail":"https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
-            "images":"5.jpg"
+            "image":"5.jpg"
         }
             
     ]
