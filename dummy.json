@@ -1,6 +1,6 @@
 {    "categories": [
         { "id": 1, "title": "Smartphones"},
-        { "id": 2, "title": "Kettles"},
+        { "id": 2, "title": "Laptops"},
         { "id": 3, "title": "Televisions"}
     ],
     "products": [
@@ -45,14 +45,58 @@
             "image":"4.jpg"
         },
             {"id":5,
-            "catid":2,
+            "catid":1,
             "title":"Huawei P30",
             "description":"Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
             "price":499,"discountPercentage":10.58,
             "rating":4.09,"stock":32,"brand":"Huawei","category":"smartphones",
             "thumbnail":"https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
             "image":"5.jpg"
+        },
+            {"id":6,
+            "catid":2,
+            "title":"MacBook Pro",
+            "description":"MacBook Pro 2021 with mini-LED display may launch between September, November",
+            "price":1749,"discountPercentage":11.02,
+            "rating":4.57,"stock":83,"brand":"Apple","category":"laptops",
+            "thumbnail":"https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+            "image":"6.png"
+        },
+            {"id":7,
+            "catid":2,
+            "title":"Samsung Galaxy Book",
+            "description":"Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+            "price":1499,"discountPercentage":4.15,
+            "rating":4.25,"stock":50,"brand":"Samsung","category":"laptops",
+            "thumbnail":"https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+            "image":"7.jpg"
+        },
+            {"id":8,
+            "catid":2,
+            "title":"Microsoft Surface Laptop 4",
+            "description":"Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+            "price":1499,"discountPercentage":10.23,
+            "rating":4.43,"stock":68,"brand":"Microsoft Surface","category":"laptops",
+            "thumbnail":"https://cdn.dummyjson.coundefinedm/product-images/8/thumbnail.jpg",
+            "image":"8.jpg"
+        },
+            {"id":9,
+            "catid":2,
+            "title":"Infinix INBOOK",
+            "description":"Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+            "price":1099,"discountPercentage":11.83,
+            "rating":4.54,"stock":96,"brand":"Infinix","category":"laptops",
+            "thumbnail":"https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+            "image":"9.png"
+        },
+            {"id":10,
+            "catid":2,
+            "title":"HP Pavilion 15-DK1056WM",
+            "description":"HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+            "price":1099,"discountPercentage":6.18,
+            "rating":4.43,"stock":89,"brand":"HP Pavilion","category":"laptops",
+            "thumbnail":"https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+            "images":"10.jpg"
         }
-            
     ]
 }
