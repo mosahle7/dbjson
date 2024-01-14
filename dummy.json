@@ -6,6 +6,7 @@
     "products": [
         {
             "id":1,
+            "catid":1,
             "title":"iPhone 9",
             "description":"An apple mobile which is nothing like apple",
             "price":549,
@@ -16,6 +17,7 @@
             "image":"1.jpg"
         },
         {   "id":2,
+            "catid":1,
             "title":"iPhone X",
             "description":"SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
             "price":899,"discountPercentage":17.94,
@@ -25,6 +27,7 @@
             "image":"2.jpg"
         },
             {"id":3,
+            "catid":1,
             "title":"Samsung Universe 9",
             "description":"Samsung's new variant which goes beyond Galaxy to the Universe",
             "price":1249,"discountPercentage":15.46,
@@ -33,6 +36,7 @@
             "image":"3.jpg"
         },
             {"id":4,
+            "catid":1,
             "title":"OPPOF19",
             "description":"OPPO F19 is officially announced on April 2021.",
             "price":280,"discountPercentage":17.91,
@@ -41,6 +45,7 @@
             "image":"4.jpg"
         },
             {"id":5,
+            "catid":2,
             "title":"Huawei P30",
             "description":"Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
             "price":499,"discountPercentage":10.58,
