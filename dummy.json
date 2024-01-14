@@ -97,6 +97,66 @@
             "rating":4.43,"stock":89,"brand":"HP Pavilion","category":"laptops",
             "thumbnail":"https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
             "image":"10.jpg"
-        }
+        },
+        {
+            "id": 11,
+            "catid": 3,
+            "title": "Sony 50 Inch Smart LED TV",
+            "description": "Ultra HD Smart LED TV with built-in streaming apps",
+            "price": 499.99,
+            "discountPercentage": 10,
+            "rating": 4.5,
+            "stock": 20,
+            "brand": "Sony",
+            "image": "11.jpg"
+          },
+          {
+            "id": 12,
+            "catid": 3,
+            "title": "Samsung 55 Inch Curved OLED TV",
+            "description": "Curved OLED TV for immersive viewing experience",
+            "price": 799.99,
+            "discountPercentage": 15,
+            "rating": 4.8,
+            "stock": 15,
+            "brand": "Samsung",
+            "image": "https://example.com/tv_images/tv_image_12.jpg"
+          },
+          {
+            "id": 13,
+            "catid": 3,
+            "title": "LG 65 Inch 4K QLED TV",
+            "description": "Quantum Dot Technology for vibrant colors",
+            "price": 1299.99,
+            "discountPercentage": 20,
+            "rating": 4.7,
+            "stock": 10,
+            "brand": "LG",
+            "image": "https://example.com/tv_images/tv_image_13.jpg"
+          },
+          {
+            "id": 14,
+            "catid": 3,
+            "title": "TCL 32 Inch HD LED TV",
+            "description": "Compact HD LED TV for smaller spaces",
+            "price": 249.99,
+            "discountPercentage": 8,
+            "rating": 4.2,
+            "stock": 25,
+            "brand": "TCL",
+            "image": "https://example.com/tv_images/tv_image_14.jpg"
+          },
+          {
+            "id": 15,
+            "catid": 3,
+            "title": "SunBrite 75 Inch Outdoor 4K TV",
+            "description": "Weatherproof 4K TV for outdoor entertainment",
+            "price": 1899.99,
+            "discountPercentage": 25,
+            "rating": 4.9,
+            "stock": 5,
+            "brand": "SunBrite",
+            "image": "https://example.com/tv_images/tv_image_15.jpg"
+          }
     ]
 }
